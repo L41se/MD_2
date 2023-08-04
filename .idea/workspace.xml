@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9ef01c16-15bc-410b-80f6-12e47c08096b" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Case_study/mouse_click_event.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SystemTime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Case_study/Case_#1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Case_study/Case_#1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Case_study/ball.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Case_study/ball.js" afterDir="false" />
@@ -49,6 +48,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -74,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691138779302</updated>
-      <workItem from="1691138780303" duration="329000" />
+      <workItem from="1691138780303" duration="694000" />
     </task>
     <servers />
   </component>
